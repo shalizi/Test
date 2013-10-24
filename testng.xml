@@ -1,0 +1,26 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+  
+<suite name="Suite1" verbose="1" basedir="." >
+<test name="testing assertions" >
+    <classes>
+       <class name="TestNG.TestingAssertions" />
+    </classes>
+  </test>
+  <test name="test1" >
+    <classes>
+       <class name="TestNG.TestOne" />
+    </classes>
+  </test>
+ 
+  <test name="test2">
+    <classes>
+      <class name="TestNG.TestTwo"/>
+    </classes>
+  </test>
+</suite>
+
+
+
+
+

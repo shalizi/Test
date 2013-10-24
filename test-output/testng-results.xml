@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44" started-at="2013-10-23T18:45:28Z" finished-at="2013-10-23T18:45:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44" started-at="2013-10-23T18:45:28Z" finished-at="2013-10-23T18:45:28Z">
+      <class name="TestNG.TestOne">
+        <test-method status="PASS" signature="openConnection()[pri:0, instance:TestNG.TestOne@2bb8ee96]" name="openConnection" is-config="true" duration-ms="10" started-at="2013-10-23T11:45:28Z" finished-at="2013-10-23T11:45:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openConnection -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:TestNG.TestOne@2bb8ee96]" name="openBrowser" is-config="true" duration-ms="0" started-at="2013-10-23T11:45:28Z" finished-at="2013-10-23T11:45:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="accountLogin()[pri:0, instance:TestNG.TestOne@2bb8ee96]" name="accountLogin" duration-ms="8" started-at="2013-10-23T11:45:28Z" finished-at="2013-10-23T11:45:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountLogin -->
+        <test-method status="PASS" signature="closBrowser()[pri:0, instance:TestNG.TestOne@2bb8ee96]" name="closBrowser" is-config="true" duration-ms="1" started-at="2013-10-23T11:45:28Z" finished-at="2013-10-23T11:45:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closBrowser -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:TestNG.TestOne@2bb8ee96]" name="openBrowser" is-config="true" duration-ms="1" started-at="2013-10-23T11:45:28Z" finished-at="2013-10-23T11:45:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="registerAccount()[pri:0, instance:TestNG.TestOne@2bb8ee96]" name="registerAccount" duration-ms="1" started-at="2013-10-23T11:45:28Z" finished-at="2013-10-23T11:45:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerAccount -->
+        <test-method status="PASS" signature="closBrowser()[pri:0, instance:TestNG.TestOne@2bb8ee96]" name="closBrowser" is-config="true" duration-ms="0" started-at="2013-10-23T11:45:28Z" finished-at="2013-10-23T11:45:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closBrowser -->
+        <test-method status="PASS" signature="closeConnection()[pri:0, instance:TestNG.TestOne@2bb8ee96]" name="closeConnection" is-config="true" duration-ms="0" started-at="2013-10-23T11:45:28Z" finished-at="2013-10-23T11:45:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeConnection -->
+      </class> <!-- TestNG.TestOne -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

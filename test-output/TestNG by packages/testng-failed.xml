@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestNG by packages]">
+  <test name="TestNG(failed)">
+    <classes>
+      <class name="TestNG.TestTwo">
+        <methods>
+          <include name="sellItems"/>
+          <include name="isLoggedIn"/>
+        </methods>
+      </class> <!-- TestNG.TestTwo -->
+      <class name="TestNG.TestOne">
+        <methods>
+          <include name="accountLogin"/>
+          <include name="registerAccount"/>
+          <include name="openConnection"/>
+        </methods>
+      </class> <!-- TestNG.TestOne -->
+    </classes>
+  </test> <!-- TestNG(failed) -->
+</suite> <!-- Failed suite [TestNG by packages] -->
